@@ -1,0 +1,16 @@
+#wrapper > p{
+    border: 3px solid green;
+    width: 500px;
+    height: 200px;
+    margin-top: 20px;
+    overflow: scroll;
+    background:rgb(247, 181, 169);
+}
+.hover_one:hover {
+    background:turquoise;
+    height: 100px;
+    width:100px;
+    transition: all 2s;
+    transform: rotate(360deg)
+    
+}
